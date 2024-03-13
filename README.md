@@ -1,0 +1,1 @@
+The InstaClone project is a replica of the Instagram platform, developed solely with HTML and CSS. With its design focused on faithful reproduction, InstaClone offers users a familiar experience similar to that of the original Instagram platform.
